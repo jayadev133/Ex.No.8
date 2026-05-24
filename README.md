@@ -5,6 +5,13 @@
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
+
+# Tools/LLMs for Image Generation
+
+* [DALL·E](https://openai.com/dall-e-3?utm_source=chatgpt.com)
+* [Stable Diffusion](https://stability.ai/stable-image?utm_source=chatgpt.com)
+* [Midjourney](https://www.midjourney.com?utm_source=chatgpt.com)
+
 ## IMAGE 1
 ## Procedure:
 1.	Analyze the Given Image:
@@ -87,13 +94,6 @@ Passenger density and vehicle placement were not identical.
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e379406-844b-42b3-ad72-a78cb20ec8bc" />
 
 
-## Tools/LLMs for Image Generation:
-●	DALL·E (by OpenAI): A text-to-image generation tool capable of creating detailed images from textual prompts.
-○	Website: DALL·E
-●	Stable Diffusion: An open-source model for generating images from text prompts, known for its flexibility and customizable outputs.
-○	Website: Stable Diffusion
-●	MidJourney: A popular AI tool for generating visually striking and creative images based on text descriptions.
-○	Website: MidJourney
 ## Instructions:
 1.	Examine the Given Image: Study the image to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
 2.	Write the Basic Prompt: Start with a simple description of the primary elements in the image (e.g., "A sunset over a mountain range").
